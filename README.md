@@ -61,8 +61,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: qoderixe@gmail.com
-- 💼 LinkedIn: (Add your LinkedIn link)
-- 🌍 Portfolio: (If you have one)
+
 
 ---
 
