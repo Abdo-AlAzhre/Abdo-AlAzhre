@@ -6,6 +6,12 @@
 
 ## 🚀 About Me
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Technical Lead at <a href="#">######
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+
 - 📱 Android Developer using **Kotlin** & **Java**
 - 🎨 Building modern Android apps with **Jetpack Compose**
 - 🌍 Developing Mobile & Desktop apps using **Kotlin Multiplatform**
