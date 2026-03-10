@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="#">######
+<p><em>JUST LOVE CODING <a href="#">[....](https://qodrix.firebaseapp.com/)
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
